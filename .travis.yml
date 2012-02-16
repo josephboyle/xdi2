@@ -1,8 +1,9 @@
 language: java
 notifications:
     email:
-        - markus.sabadello@gmail.com
+        - boyle.joseph@gmail.com
 branches:
     only:
         - master
 script: mvn clean integration-test
+
